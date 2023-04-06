@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "genfarm-cluster-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javaarchive/GenFarmClusterServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javaarchive/GenFarmClusterServer/issues"
+  },
+  "homepage": "https://github.com/javaarchive/GenFarmClusterServer#readme",
+  "description": "",
+  "type": "module"
+}
